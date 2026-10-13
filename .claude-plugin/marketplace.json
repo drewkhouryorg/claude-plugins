@@ -1,0 +1,15 @@
+{
+  "name": "drewkhouryorg",
+  "description": "Claude Code plugins by Drew Khoury.",
+  "owner": {
+    "name": "Drew Khoury",
+    "email": "drew.khoury@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "compact-nudge",
+      "source": "./plugins/compact-nudge",
+      "description": "Shows a note above the prompt when a turn ends at a clean point to /compact. Display only: the model never sees it."
+    }
+  ]
+}

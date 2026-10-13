@@ -1,0 +1,10 @@
+{
+  "name": "compact-nudge",
+  "version": "0.1.0",
+  "description": "Shows a note above the prompt when a turn ends at a clean point to /compact or hand over. Display only: the model never sees it.",
+  "author": {
+    "name": "Drew Khoury",
+    "email": "drew.khoury@gmail.com"
+  },
+  "types": "./types/index.d.ts"
+}
