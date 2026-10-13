@@ -1,3 +1,5 @@
+![compact-nudge logo](logo.svg)
+
 # compact-nudge
 
 A Claude Code plugin that tells you when it's a good moment to `/compact`. When a turn ends at a clean stopping point and your context is filling up, a one-line note appears above the prompt:

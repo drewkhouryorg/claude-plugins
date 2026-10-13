@@ -1,3 +1,5 @@
+![claude-plugins logo](images/logo.svg)
+
 # claude-plugins
 
 Claude Code plugins by Drew Khoury, published as a plugin marketplace.
